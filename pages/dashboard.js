@@ -78,4 +78,4 @@ const Dashboard = () => {
   );
 };
 
-export default dashboard;
+export default Dashboard;
